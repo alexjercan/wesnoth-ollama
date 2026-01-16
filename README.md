@@ -8,3 +8,7 @@ This kind of requires my fork of Wesnoth to work because it needs the extra
 ### Quickstart
 
 Copy this to the `add-on` folder and play the game using my build :)
+
+### Plans
+
+- Generate extra context for the LLM using unit info and stuff like that
